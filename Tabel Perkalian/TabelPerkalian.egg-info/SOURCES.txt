@@ -1,9 +1,0 @@
-LICENCE
-README.md
-setup.py
-TabelPerkalian.egg-info/PKG-INFO
-TabelPerkalian.egg-info/SOURCES.txt
-TabelPerkalian.egg-info/dependency_links.txt
-TabelPerkalian.egg-info/top_level.txt
-perkalian/__init__.py
-perkalian/tabelperkalian.py
